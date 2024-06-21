@@ -1,9 +1,6 @@
-## Hi there 👋
+## About Me
 
-<!--
 **poonYOUgit/poonYOUgit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on plant science applications
 - 🌱 I’m currently learning to code.
@@ -12,5 +9,3 @@ Here are some ideas to get you started:
 - 💬 Ask me about mental health, plant science.
 - 📫 How to reach me: ...
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: ...
--->
